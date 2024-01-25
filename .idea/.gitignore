@@ -1,0 +1,8 @@
+# Default ignored files
+/../../MatGraf /.idea/shelf/
+/../../MatGraf /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../MatGraf /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../MatGraf /.idea/dataSources/
+/../../MatGraf /.idea/dataSources.local.xml

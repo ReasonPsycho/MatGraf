@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MatGraf_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\Tools\;CMake Files\..\..\..\..\Tools\vcpkg\;CMake Files\..\..\..\..\Tools\vcpkg\scripts\;CMake Files\..\..\..\..\Tools\vcpkg\scripts\buildsystems\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\vcpkg_installed\;CMake Files\cmake-build-debug\vcpkg_installed\x64-windows\;CMake Files\cmake-build-debug\vcpkg_installed\x64-windows\share\;CMake Files\cmake-build-debug\vcpkg_installed\x64-windows\share\unofficial-pdcurses\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MatGraf_">
+				<Option output="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/MatGraf_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/vcpkg_installed/x64-windows/include"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 MatGraf_"/>
+					<CompileFile command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MatGraf_/fast">
+				<Option output="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/MatGraf_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/vcpkg_installed/x64-windows/include"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 MatGraf_/fast"/>
+					<CompileFile command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/redkc/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/BoundaryPlane.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/BoundaryPlane.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Camera.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Camera.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Cube.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Cube.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Line.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Line.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Matrix4x4.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Matrix4x4.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Plane.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Plane.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Quaternion.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Quaternion.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Sphere.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Sphere.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Utilis.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Utilis.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Vector3.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/Vector3.h">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/main.cpp">
+			<Option target="MatGraf_"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/vcpkg.json">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/../../../../Tools/vcpkg/scripts/buildsystems/vcpkg.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Tools\vcpkg\scripts\buildsystems\"/>
+		</Unit>
+		<Unit filename="C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug/vcpkg_installed/x64-windows/share/unofficial-pdcurses/unofficial-pdcurses-config.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\vcpkg_installed\x64-windows\share\unofficial-pdcurses\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,11 @@
+{
+  "name" : "matgraf",
+  "version-string" : "1.0.0",
+  "dependencies" : [ {
+    "name" : "vcpkg-cmake-config"
+  }, {
+    "name" : "vcpkg-cmake"
+  }, {
+    "name" : "pdcurses"
+  } ]
+}

@@ -1,0 +1,24 @@
+C:\Users\redkc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=C:\Tools\vcpkg\scripts\buildsystems\vcpkg.cmake -G "CodeBlocks - MinGW Makefiles" -S C:\Users\redkc\CLionProjects\MatGraf -B C:\Users\redkc\CLionProjects\MatGraf\cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- Running vcpkg install
+Detecting compiler hash for triplet x64-windows...
+All requested packages are currently installed.
+Total install time: 1.1 us
+pdcurses provides CMake targets:
+
+  # this is heuristically generated, and may not be correct
+  find_package(unofficial-pdcurses CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE unofficial::pdcurses::pdcurses)
+
+-- Running vcpkg install - done
+-- Configuring done (3.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/redkc/CLionProjects/MatGraf/cmake-build-debug
